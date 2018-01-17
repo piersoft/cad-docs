@@ -1,5 +1,8 @@
-Decreto Legislativo 7 marzo 2005, n. 82 - Codice dell'amministrazione digitale
-##############################################################################
+Codice dell'amministrazione digitale
+#####################################
+
+Decreto Legislativo 7 marzo 2005, n. 82
+#######################################
 
 .. toctree::
 
